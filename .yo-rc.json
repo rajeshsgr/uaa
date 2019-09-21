@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nola.raj.uaa"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.nola.raj.uaa",
+    "packageFolder": "com/nola/raj/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGZmMTM3YzQ0N2Q0YTQyZDRjZjE5NzdiODRlMDgxMDhkOGUxYmFjMDNmNGE2YzgwNTNlZDJlMDU0YWUzMjU5MWZiOTBmMjEzNTE5ODQxOTQzMGZjYTBmMzcwNTAwYzJmYTUwNWY5NjE1YmU0ZWUwZGY0MjJiM2U3MjE2YWViNmM=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
